@@ -15,6 +15,9 @@
   http://47.98.199.212:8080/shop/
 #### 后台地址
   http://47.98.199.212:8080/shop/admin_login.jsp
+#### 登录账号（前后台均可）
+  账号：admin 
+  密码：000
 #### 项目结构
   ![image](https://user-images.githubusercontent.com/58590342/118215549-44646b00-b4a4-11eb-8caf-50588a2dffba.png)
   ![image](https://user-images.githubusercontent.com/58590342/118214194-e33b9800-b4a1-11eb-9707-85c82b56e329.png)
