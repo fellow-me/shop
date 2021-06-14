@@ -27,7 +27,7 @@
 			</div>
 		</div>
 		<p class="admin_copyright">
-			<a tabindex="5" href="admin_register.jsp">注册</a> &copy; 2020 Powered
+			<a tabindex="5" href="#"></a> &copy; 2020 Powered
 			by Judy
 		</p>
 	</div>
