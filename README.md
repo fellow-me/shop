@@ -1,5 +1,5 @@
 #### 项目介绍
-  本项目是基于JSP+JavaBean+Servlet+MySQL开发的小型商城，分为前台和后台管理员界面，前后台都可以登录和注册。
+  本项目是基于JSP+JavaBean+Servlet+MySQL开发的小型商城，分为前台和后台。
 #### 项目基本设置
   1. 将项目下载到本地之后，找到WebContent下image文件夹的绝对路径
     ![image](https://user-images.githubusercontent.com/58590342/118268146-98e10800-b4ef-11eb-8080-d445c11baae0.png)
