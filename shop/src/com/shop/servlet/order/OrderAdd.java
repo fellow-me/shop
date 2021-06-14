@@ -68,6 +68,8 @@ public class OrderAdd extends HttpServlet {
 				orderItem.setOrder(order1);
 				orderItem.setProduct(product);
 				orderItem.setAmount(amount);
+				product.setStock(product.getStock()-amount);
+				ServiceFactory.getProductService().doUpdate(product);//更新商品库存
 				ServiceFactory.getOrderItemService().doAdd(orderItem);//添加订单明细
 				ArrayList<OrderItem> list1 = ServiceFactory.getOrderItemService().getOrderItems(order1.getId());
 				ArrayList<Image> list2 = ServiceFactory.getImageService().getImagesByOrder(order1.getId());
