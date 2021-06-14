@@ -18,7 +18,7 @@
 			</p>
 			<form action="GetProduct" method="post" class="fl">
 				<input type="text" placeholder="热门搜索：干花花瓶" value="${keyword }" name="keyword" /> 
-				<input type="button" />
+				<input type="submit" value="" />
 			</form>
 			<div class="btn fl clearfix">
 				<a href="GetUser"><img src="img/grzx.png" /></a> <a href="#"
