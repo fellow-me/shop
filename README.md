@@ -12,7 +12,7 @@
    ![image](https://user-images.githubusercontent.com/58590342/123020443-d5fcbc00-d404-11eb-9539-2a44ff97709d.png)
   6. 因为上传的商品的图片都是以url形式访问的，并且是访问的8080端口，所以项目要以8080端口启动（如果要改端口，则要将jsp页面代码中的访问商品图片的端口改变）
 #### 前台地址
-  http://47.98.199.212/shop
+  http://47.98.199.212/shop/GetCategory
 #### 后台地址
   http://47.98.199.212/shop/admin_login.jsp
 #### 登录账号（前后台均可）
